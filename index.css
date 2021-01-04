@@ -1,5 +1,6 @@
 body {
     font-family: 'Redressed', cursive;
+    height: 0 auto;
 }
 
 h1 {
@@ -19,4 +20,17 @@ h1 {
 
 .shohel img {
     width: 100%;
+}
+
+.btn button {
+    padding: 10px 20px;
+    background-color: red;
+    border-radius: 10px;
+    font-family: 'Redressed', cursive;
+    font-size: 30px;
+}
+
+.btn button a {
+    color: white;
+    text-decoration: none;
 }
