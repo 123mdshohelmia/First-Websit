@@ -1,0 +1,22 @@
+body {
+    font-family: 'Redressed', cursive;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.name {
+    color: orange;
+}
+
+.shohel-half {
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.shohel-half img {
+    width: 100%;
+}
